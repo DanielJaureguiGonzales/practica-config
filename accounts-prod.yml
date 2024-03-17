@@ -6,7 +6,10 @@ accounts:
   message: "Welcome to EazyBank accounts related prod APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
-    email: "aishwarya@eazybank.com"
+    # campo "email" encriptado con config-server
+    # para poder desencriptar y obtener el valor real 
+    # al comienzo del valor encriptado debemos poner "{cipher}"
+    email: "{cipher}4ad8647e72f5cc4222d0a42aa5b5d7f3fb43cdb23d9e8f214786707743aa17c29c487171dfc2a93c8929f73e0c755136"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
