@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to EazyBank loans related local APIs"
+  contactDetails:
+    name: "Daniel Jauregui - Developer"
+    email: "daniel@eazybank.com"
+  onCallSupport:
+    - (548) 485-9584
+    - (854) 325-6594

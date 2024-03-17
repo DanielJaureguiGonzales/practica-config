@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to EazyBank cards related local APIs"
+  contactDetails:
+    name: "Jose Lapa - Developer"
+    email: "jose@eazybank.com"
+  onCallSupport:
+    - (326) 112-5486
+    - (513) 448-6593

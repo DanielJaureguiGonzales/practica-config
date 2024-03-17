@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to EazyBank cards related QA APIs"
+  contactDetails:
+    name: "Delia Gonzales - QA Lead"
+    email: "delia@eazybank.com"
+  onCallSupport:
+    - (658) 512-5596
+    - (326) 447-5139

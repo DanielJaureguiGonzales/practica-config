@@ -1,0 +1,13 @@
+
+
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to EazyBank cards related prod APIs"
+  contactDetails:
+    name: "Ricardo Pampañaupa - Product Owner"
+    email: "ricardo@eazybank.com"
+  onCallSupport:
+    - (548) 215-6595
+    - (214) 513-8472
